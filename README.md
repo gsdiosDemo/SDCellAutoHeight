@@ -1,5 +1,6 @@
 # SDCellAutoHeight
 使用SDAutoLayout（Github地址：https://github.com/gsdios/SDAutoLayout ）自动布局和cell高度自适应功能制作的高度自适应tableview！
+
 自动布局和cell高度自适应视频教程：http://www.letv.com/ptv/vplay/24038772.html
 
 自动布局示例：
